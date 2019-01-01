@@ -1,0 +1,12 @@
+﻿Câu 1: lý thuyết 2đ
+Câu 2 - 3: bài tập 4đ*2
+
+Lý thuyết: 
+- mô hình hướng sự kiện
+- vòng đời activity
+- intents là gì, các loại
+- cách thức vẽ đối tượng đồ họa 2D
+- 
+ví dụ 1: hình vuông chính giữa màn hình và các mũi tên ấn sang trái sang phải thì màn hình 
+ví dụ 2: danh sách sv -> nhập trạng thái -> lưu lại vào file json hoặc json server -> cập nhật lại danh sách sv
+ví dụ 3: 

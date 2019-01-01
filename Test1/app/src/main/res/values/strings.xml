@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test1</string>
+
+    <string-array name="list_name">
+        <item>Hoa</item>
+        <item>John</item>
+        <item>Jerry</item>
+        <item>Ran</item>
+
+    </string-array>
+
+
+</resources>

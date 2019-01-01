@@ -1,0 +1,11 @@
+[
+{ "id":1, "name":"John", "status":"America", "url":"avatar1.png" },
+{ "id":2, "name":"Tom", "status":"America", "url":"avatar2.png" },
+{ "id":3, "name":"Cat", "status":"America", "url":"avatar3.png" },
+{ "id":4, "name":"Mouse", "status":"America", "url":"avatar4.png" },
+{ "id":5, "name":"Elephant", "status":"America", "url":"avatar1.png" },
+{ "id":6, "name":"Spider", "status":"America", "url":"avatar2.png" },
+{ "id":7, "name":"Totoise", "status":"America", "url":"avatar3.png" },
+{ "id":8, "name":"Bird", "status":"America", "url":"avatar4.png" },
+{ "id":9, "name":"Cab", "status":"America", "url":"avatar1.png" }
+]

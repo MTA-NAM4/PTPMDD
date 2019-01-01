@@ -1,0 +1,8 @@
+﻿1. Start Server: 
+json-server --watch db.json
+
+2. truy cập: 
+http://10.0.2.2:3000/people
+
+
+btvn: từ client thêm 1 item vào file trên server db.json
