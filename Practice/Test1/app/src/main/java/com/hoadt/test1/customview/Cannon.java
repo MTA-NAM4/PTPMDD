@@ -10,8 +10,9 @@ import android.graphics.Paint;
 
 public class Cannon {
     private int x;
-    private int stepX = 15;
+    private int stepX = 15;//bước di chuyển
     private Paint paint;
+    //kích thước màn chơi
     private int width;
     private int height;
 
@@ -27,6 +28,7 @@ public class Cannon {
     }
 
     public void moveLeft() {
+        //50 là chiều rộng khẩu pháo
         if (x - stepX >= 50) {
             x = x - stepX;
         } else {
