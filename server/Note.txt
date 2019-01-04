@@ -1,4 +1,15 @@
-﻿1. Start Server: 
+﻿Cài đặt JSON server
+1. 
+Download node js:  http://nodejs.org/en/
+Chọn phiên bản Long Term Support (LTS)
+Chạy file đã download để cài đặt
+2. 
+Chạy Command Prompt
+Gõ node -v
+Gõ npm -v
+Gõ npm install -g json-server
+//=======================================================
+1. Start Server: 
 json-server --watch db.json
 
 2. truy cập: 

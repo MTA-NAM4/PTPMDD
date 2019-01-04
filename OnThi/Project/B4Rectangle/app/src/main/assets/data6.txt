@@ -1,0 +1,5 @@
+[
+{"id":1, "name":"Ho Thien Huong", "address":"TH13A", "imgUrl":"avatar1.png", "status":"Life is beautiful!"},
+{"id":2, "name":"Tran Thu Hien", "address":"TH13B", "imgUrl":"avatar2.png", "status":"Love you and Love me!"},
+{"id":3, "name":"Ho Huu Hung", "address":"TH13C", "imgUrl":"avatar3.png", "status":"The persuit of Happiest!"}
+]

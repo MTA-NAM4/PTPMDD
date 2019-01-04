@@ -1,54 +1,5 @@
-{
-  "people": [
-    {
-      "id": 1,
-      "name": "John",
-      "url": "avatar1.png"
-    },
-    {
-      "id": 2,
-      "name": "Kelvin",
-      "url": "avatar2.png"
-    },
-    {
-      "id": 3,
-      "name": "John",
-      "url": "avatar3.png"
-    },
-    {
-      "id": 4,
-      "name": "John",
-      "url": "avatar4.png"
-    },
-    {
-      "id": 5,
-      "name": "John",
-      "url": "avatar5.png"
-    },
-    {
-      "id": 6,
-      "name": "John",
-      "url": "avatar2.png"
-    },
-    {
-      "id": 7,
-      "name": "John",
-      "url": "avatar3.png"
-    },
-    {
-      "id": 8,
-      "name": "John",
-      "url": "avatar4.png"
-    },
-    {
-      "id": 9,
-      "name": "John",
-      "url": "avatar1.png"
-    },
-    {
-      "id": 10,
-      "name": "John-new",
-      "url": "avatar1.png"
-    }
-  ]
-}
+{ "student":[
+{"id":1, "name":"Ho Thien Huong", "address":"TH13A","dateOfBirth":"02/02/1992", "imgUrl":"avatar1.png", "status":"Life is beautiful!"},
+{"id":2, "name":"Tran Thu Hien", "address":"TH13B", "dateOfBirth":"02/02/1992","imgUrl":"avatar2.png", "status":"Love you and Love me!"},
+{"id":3, "name":"Ho Huu Hung", "address":"TH13C", "dateOfBirth":"02/02/1992","imgUrl":"avatar3.png", "status":"The persuit of Happiest!"}
+]} 
