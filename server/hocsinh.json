@@ -1,0 +1,29 @@
+{
+  "hocsinh": [
+    {
+      "id": 1,
+      "name": "Ho 1",
+      "address": "TH13A"
+    },
+    {
+      "id": 2,
+      "name": "Ho 2",
+      "address": "TH13A"
+    },
+    {
+      "id": 3,
+      "name": "Ho 3",
+      "address": "TH13B"
+    },
+    {
+      "id": 4,
+      "name": "H2GR",
+      "address": "DDG"
+    },
+    {
+      "id": 5,
+      "name": "g",
+      "address": "g"
+    }
+  ]
+}

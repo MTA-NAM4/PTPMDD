@@ -1,5 +1,5 @@
 { "student":[
-{"id":1, "name":"Ho Thien Huong", "address":"TH13A","dateOfBirth":"02/02/1992", "imgUrl":"avatar1.png", "status":"Life is beautiful!"},
-{"id":2, "name":"Tran Thu Hien", "address":"TH13B", "dateOfBirth":"02/02/1992","imgUrl":"avatar2.png", "status":"Love you and Love me!"},
+{"id":1, "name":"Ho Hoai Anh", "address":"TH13A","dateOfBirth":"02/02/1992", "imgUrl":"avatar1.png", "status":"Life is beautiful!"},
+{"id":2, "name":"Tran Huyen Trang", "address":"TH13B", "dateOfBirth":"02/02/1992","imgUrl":"avatar2.png", "status":"Love you and Love me!"},
 {"id":3, "name":"Ho Huu Hung", "address":"TH13C", "dateOfBirth":"02/02/1992","imgUrl":"avatar3.png", "status":"The persuit of Happiest!"}
 ]} 
