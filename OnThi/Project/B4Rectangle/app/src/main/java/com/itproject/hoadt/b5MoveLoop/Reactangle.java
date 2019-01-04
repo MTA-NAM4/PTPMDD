@@ -1,4 +1,4 @@
-package com.itproject.hoadt.b4Reactangle;
+package com.itproject.hoadt.b5MoveLoop;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

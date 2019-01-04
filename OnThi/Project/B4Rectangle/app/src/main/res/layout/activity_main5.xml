@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.itproject.hoadt.b5MoveLoop.DrawView
+        android:id="@+id/drawview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/buttonControlLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imgLeft"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:src="@drawable/ic_arrow_left"
+            android:text="LEFT" />
+
+        <ImageView
+            android:id="@+id/imgPause"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#e2e2e2"
+            android:padding="8dp"
+            android:src="@drawable/ic_pause"
+            android:text="LEFT" />
+
+        <ImageView
+            android:id="@+id/imgRight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="8dp"
+            android:src="@drawable/ic_arrow_right"
+            android:text="LEFT" />
+    </LinearLayout>
+
+</LinearLayout>

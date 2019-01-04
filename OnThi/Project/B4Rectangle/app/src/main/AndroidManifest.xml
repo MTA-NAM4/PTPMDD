@@ -13,12 +13,13 @@
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         android:usesCleartextTraffic="true"
         android:windowSoftInputMode="adjustResize">
-        <activity android:name="com.itproject.hoadt.b4Reactangle.GameActivity" />
+        <activity android:name="com.itproject.hoadt.b4Reactangle.GameActivity"></activity>
         <activity android:name="com.itproject.hoadt.b6SaveFileJson.Main6Activity" />
         <activity android:name="com.itproject.hoadt.b6SaveFileJson.Detail6Activity" />
-        <activity android:name="com.itproject.hoadt.b7Jsonserver.Main7Activity"/>
+        <activity android:name="com.itproject.hoadt.b7Jsonserver.Main7Activity" />
         <activity android:name="com.itproject.hoadt.b7Jsonserver.Detail7Activity" />
-        <activity android:name="com.itproject.hoadt.b8JsonAdd.Main8Activity">
+        <activity android:name="com.itproject.hoadt.b8JsonAdd.Main8Activity"></activity>
+        <activity android:name="com.itproject.hoadt.b5MoveLoop.GameActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

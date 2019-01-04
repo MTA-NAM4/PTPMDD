@@ -1,4 +1,4 @@
-package com.itproject.hoadt.b4Reactangle;
+package com.itproject.hoadt.b5MoveLoop;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -18,7 +18,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main5);
 
         imgLeft = findViewById(R.id.imgLeft);
         imgRight = findViewById(R.id.imgRight);

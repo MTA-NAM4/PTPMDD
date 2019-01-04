@@ -1,4 +1,4 @@
-package com.itproject.hoadt.b4Reactangle;
+package com.itproject.hoadt.b5MoveLoop;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -8,7 +8,6 @@ import android.media.AudioAttributes;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Build;
-import android.os.Handler;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.SurfaceHolder;
@@ -123,11 +122,13 @@ public class DrawView extends SurfaceView {
                 if (!reactangle.moveLeft()){
                     soundPool.play(sound_warning, 1, 1, 1, 0, 1);
                     isLeft = false;
+                    isRight = true;
                 }
             } else if (isRight) {
                 if (!reactangle.moveRight()) {
                     soundPool.play(sound_warning, 1, 1, 1, 0, 1);
                     isRight = false;
+                    isLeft = true;
                 }
             }
         }
