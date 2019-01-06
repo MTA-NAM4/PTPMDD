@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "idPro": "sp02",
+      "namePro": "Product 1",
+      "pricePro": "100"
+    },
+    {
+      "id": 2,
+      "idPro": "sp02",
+      "namePro": "Product 2",
+      "pricePro": "100"
+    },
+    {
+      "id": 3,
+      "idPro": "df",
+      "namePro": "sd",
+      "pricePro": "342"
+    }
+  ]
+}
